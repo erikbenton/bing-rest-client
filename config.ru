@@ -1,3 +1,3 @@
-require './caesar_cipher_reloaded'
+require './lib/rest-client.rb'
 
 run Sinatra::Application
